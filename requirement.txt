@@ -1,12 +1,9 @@
 python>=3.9
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
+joblib
 
-numpy>=1.23
-pandas>=1.5
-scikit-learn>=1.2
-
-matplotlib>=3.6
-seaborn>=0.12
-
-streamlit>=1.25
-
-joblib>=1.3
