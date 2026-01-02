@@ -38,3 +38,12 @@ PersonaIQ enables **data-driven customer differentiation**, allowing businesses 
 
 ## 🛠️ Tech Stack
 **Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | PCA | K-Means | Streamlit**
+
+---
+
+## 📊 Customer Persona Clusters
+
+![Customer Segmentation Clusters](Image_PersonaIQ.png)
+
+This visualization shows customer personas formed after applying PCA and K-Means.  
+Each cluster represents a distinct behavioral segment based on spending, recency, and engagement patterns.
